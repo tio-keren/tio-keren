@@ -76,7 +76,7 @@ Languages & Frameworks
 
 ## ☕ Support Me
 
-[![Donate](https://img.shields.io/badge/Donate-Trakteer-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id/farel_alfarez/gift)
+[![Donate](https://img.shields.io/badge/Donate-Trakteer-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id)
 [![Donate](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/TIOmd)
 
 <div align="center">
