@@ -59,16 +59,16 @@ Languages & Frameworks
 <p align="center">Connect With Me</p>
 <div align="center">
 <p>
-  <a href="mailto:fareldev.co@gmail.com">
+  <a href="mailto:satrio7383@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/logic__vibes">
+  <a href="https://instagram.com/tio.dev1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@logic__vibes">
+  <a href="https://www.tiktok.com/@tio.developer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://t.me/fareldev">
+  <a href="https://t.me/tioxm4">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
